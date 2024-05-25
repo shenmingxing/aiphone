@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 
 import { FaTelegram } from "react-icons/fa";
-import styles from '/styles/df.module.css';
+import styles from '@styles/df.module.css';
 
 
 
